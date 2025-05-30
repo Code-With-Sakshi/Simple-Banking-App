@@ -15,4 +15,4 @@ This is a beginner-friendly Python project that simulates a basic ATM system in 
 
 🔁 Loop-based menu for multiple operations in one session
 
-🧠 Previous balance is retrieved from the file if user logs in again
+🧠 Previous balance is not retrieved from the file if user logs in again
